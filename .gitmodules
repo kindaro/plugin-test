@@ -1,18 +1,18 @@
 [submodule "spd-test"]
 	path = spd-test
-	url = ./spd-test
+	url = https://github.com/kindaro/spd-test
 [submodule "spl-test"]
 	path = spl-test
-	url = ./spl-test
+	url = https://github.com/kindaro/spl-test
 [submodule "sph-test"]
 	path = sph-test
-	url = ./sph-test
+	url = https://github.com/kindaro/sph-test
 [submodule "integerValue13"]
 	path = integerValue13
-	url = ./integerValue13
+	url = https://github.com/kindaro/integerValue13
 [submodule "spl2-test"]
 	path = spl2-test
-	url = ./spl2-test
+	url = https://github.com/kindaro/spl2-test
 [submodule "import-test"]
 	path = import-test
-	url = ./import-test
+	url = https://github.com/kindaro/import-test
